@@ -10,8 +10,3 @@ FitLife Glow is a fitness and wellness web application designed to help users tr
 - 🎨 Modern UI with a glowing, aesthetic fitness theme  
 - 📱 Fully responsive design for mobile and desktop
 
-## 🔧 Tech Stack
-
-- *Frontend:* HTML, CSS, JavaScript
-- *Design:* AI-generated components + customizable layout
-- *Hosting:* Lovable platform (temporary preview domain)
