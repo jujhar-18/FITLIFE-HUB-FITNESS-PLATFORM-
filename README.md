@@ -12,7 +12,6 @@ FitLife Glow is a fitness and wellness web application designed to help users tr
 
 ## 🔧 Tech Stack
 
-- *Framework/Generator:* Lovable AI (Auto-generated)
 - *Frontend:* HTML, CSS, JavaScript
 - *Design:* AI-generated components + customizable layout
 - *Hosting:* Lovable platform (temporary preview domain)
